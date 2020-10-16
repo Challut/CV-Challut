@@ -123,32 +123,32 @@ main p {
     flex: 1;
 }
 #formation #experience_professionnelle {
-    padding: 2% 0 2% 0;
+    padding: 20px 0 20px 0;
 } 
 .mise_en_page {
     display: flex;
 }
 
 .point1 {
-    margin: 1.5% 1% 0 1%;
+    margin: 15px 20px 0 10px;
 }
 .point {
-    margin: 1.5% 1% 0 1%;
+    margin: 15px 20px 0 10px;
 }
 .annee {
-    margin: 1% 0 0 1%;
+    margin: 10px 0 0 20px;
     width: 300px;
 }
 
 .etablissement {
-    padding-left: 5%;
-    padding-top: 1%;
+    padding-left: 20px;
+    padding-top: 10px;
     width: 300px;
 }
 #icones {
     display: flex;
     flex-direction: row;
-    padding: 11%;
+    padding: 20px;
 }
 .icone {
     display: flex;
@@ -249,5 +249,7 @@ nav {
     .arrondie {
         width: 100px;
     }
-    
+    .annee {
+        width: 170px;
+    }
 }
